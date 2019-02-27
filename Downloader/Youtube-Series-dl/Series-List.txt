@@ -1,1 +1,3 @@
-
+#This is created to download TV shows that have been uploaded to Youtube (Red Green, Archie's Weird Mysteries, etc.)
+#I personally download them all to a different location, so this allows for that.
+#It's not entirely needed, but I use it so I've added it.
