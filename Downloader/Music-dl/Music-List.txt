@@ -1,1 +1,3 @@
-
+#To use the music downloader portion of this, create a public youtube playlist and add videos you want to download
+#Be wary, this will only download the audio, not video too
+#Then add the link to your playlist to this file.
