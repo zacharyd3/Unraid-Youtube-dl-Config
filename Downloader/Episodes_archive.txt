@@ -1,1 +1,1 @@
-#This is the archive, once an episode is done downloading, it'll be added here so files are duplicated.
+#This archive, unlike the download archive, is used to keep track of files that have already been renamed, this way it doesn't rename the same file every pass, which would break the episode numbering.
