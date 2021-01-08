@@ -1,3 +1,0 @@
-#Add folders here that you want the renamer to go through and organize.
-#Also, delete these lines once you add your folders.
-#The renamer also doesn't check recursively, so add the season folder too.
