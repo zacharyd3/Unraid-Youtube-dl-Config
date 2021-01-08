@@ -1,0 +1,10 @@
+Movies - Old
+{Movie Title} [{Release Year} {Quality Title} {MediaInfo VideoDynamicRange} {MediaInfo AudioChannels} {MediaInfo AudioCodec}]
+
+Movies - New
+{Movie CleanTitle} {(Release Year)} {Edition Tags} [imdb-{ImdbId}]{[Quality Title}{ MediaInfo 3D}{ MediaInfo VideoDynamicRange} {Mediainfo VideoBitDepth}bit{ Mediainfo VideoCodec}{ Mediainfo AudioCodec}{ Mediainfo AudioChannels}]
+
+TV - Old
+S{season:00}E{episode:00} - {Episode Title} [{Quality Title} {MediaInfo VideoDynamicRange} {MediaInfo AudioChannels} {MediaInfo AudioCodec}]
+
+TV - New
