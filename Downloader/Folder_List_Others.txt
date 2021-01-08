@@ -1,3 +1,0 @@
-#this works the exact same as Folder-List.txt however this is for youtube series that the creator has a dash in the title of otherwise it breaks the renamer, and you lose the title of the episode in the filename (it still shows in plex because the metadata should have been written to the file.
-#(ie. The best drift car - Forza Horizon 4) 
-#Delete these lines once you add the folders.
